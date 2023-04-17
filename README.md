@@ -1,2 +1,2 @@
-### `npm start` (different terminal)
-### `npm start:server` (different terminal)
+### `npm run start` (different terminal)
+### `npm run start:server` (different terminal)
