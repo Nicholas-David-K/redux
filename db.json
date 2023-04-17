@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "CUNpqETmu14JOav0naGXx",
+      "name": "Mrs. Theodore Graham"
+    },
+    {
+      "id": "N2QRG70WB7R8Bviqe8pYO",
+      "name": "Steve Gleichner"
+    }
+  ],
+  "albums": [
+    {
+      "id": "cKMsYU2TAP8wuSSgUpO_C",
+      "title": "Fantastic Granite Towels",
+      "userId": "CUNpqETmu14JOav0naGXx"
+    },
+    {
+      "id": "JMluWkP1y2nj2P14XM861",
+      "title": "Small Frozen Pizza",
+      "userId": "CUNpqETmu14JOav0naGXx"
+    },
+    {
+      "id": "Id1VNWT4WxrShchQQcU3S",
+      "title": "Elegant Plastic Chair",
+      "userId": "N2QRG70WB7R8Bviqe8pYO"
+    },
+    {
+      "id": "THy1exBRpZC881btHRack",
+      "title": "Rustic Bronze Bike",
+      "userId": "CUNpqETmu14JOav0naGXx"
+    }
+  ],
+  "photos": [
+    {
+      "id": "7lM0NoEfKPekn2jqJOBoU",
+      "url": "https://loremflickr.com/150/150/abstract?lock=7244",
+      "albumId": "Id1VNWT4WxrShchQQcU3S"
+    },
+    {
+      "id": "VGndGoN1BUAe250k9xkD9",
+      "url": "https://loremflickr.com/150/150/abstract?lock=99577",
+      "albumId": "Id1VNWT4WxrShchQQcU3S"
+    },
+    {
+      "id": "AyhE-TEoloE1KCuvW0mOM",
+      "url": "https://loremflickr.com/150/150/abstract?lock=74434",
+      "albumId": "JMluWkP1y2nj2P14XM861"
+    }
+  ]
+}
